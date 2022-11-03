@@ -5,9 +5,12 @@ using namespace std;
 
 int main(){
 
-//	cout<<"hello world"<<endl;
-	cout<<"1+2=3"<<endl;
-//	cout<<"dev test"<<endl;
+
+	int a;
+	int b;
+	cin>>a>>b;
+	cout<<a+b<<endl;
 	return 0;
 }
+
 
